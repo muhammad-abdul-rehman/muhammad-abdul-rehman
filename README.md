@@ -1,9 +1,4 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=I+am+Muhammad+Abdul+Rehman" />
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=435&lines=I+am+MERN+stack+developer;I+am+MEVN+stack+developer;Always+ready+to+learn+new+techs" />
-</p>
+![Muhammad Abdul Rehman - GitHub Header](./assets/GitHubBg.png)
 
 
 ## About me
